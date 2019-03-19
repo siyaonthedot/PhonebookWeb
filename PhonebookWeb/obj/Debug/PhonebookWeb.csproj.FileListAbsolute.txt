@@ -64,6 +64,6 @@ c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookWeb\PhonebookW
 c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookWeb\PhonebookWeb\bin\Microsoft.Owin.Security.Google.xml
 c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookWeb\PhonebookWeb\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookWeb\PhonebookWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookWeb\PhonebookWeb\obj\Debug\PhonebookWeb.csprojResolveAssemblyReference.cache
 c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookWeb\PhonebookWeb\obj\Debug\PhonebookWeb.dll
 c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookWeb\PhonebookWeb\obj\Debug\PhonebookWeb.pdb
+c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookWeb\PhonebookWeb\obj\Debug\PhonebookWeb.csprojResolveAssemblyReference.cache
